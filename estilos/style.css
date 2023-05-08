@@ -64,7 +64,20 @@ div#res {
 }
 
 div#foto {
-    margin-top: 300px;
+    display: block;
+    position: relative;
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%);
+    width: 50vw;
+    height: 28vh;
+    
+    
+}
+
+img {
+    
 }
 
 footer {
